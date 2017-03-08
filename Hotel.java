@@ -15,6 +15,7 @@ public class Hotel extends JFrame implements ActionListener
 	PreparedStatement ps;
 	ResultSet rs;
 	Font mfnt,mfnt1;
+	int i;
 
 	
 	//For Login Form
